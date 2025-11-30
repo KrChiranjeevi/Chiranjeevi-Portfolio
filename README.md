@@ -241,7 +241,7 @@ If you have any questions or need help with the setup, feel free to reach out\!
 **Kumar Chiranjeevi*
 
   - Website: [https://www.kr.my.id/](https://www.kr.my.id/)
-  - GitHub: [EkiZR](https://github.com/EkiZR)
+  - GitHub: [Kumar]([https://github.com/EkiZR](https://github.com/KrChiranjeevi))
 
 -----
 
